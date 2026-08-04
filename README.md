@@ -11,4 +11,4 @@ This repository contains my accepted LeetCode solutions.
 - Prepare for coding interviews.
 
 ## Profile
-- LeetCode: https://leetcode.com/u/your_username/
+- LeetCode: https://leetcode.com/u/Paras_Patil16/
