@@ -18,10 +18,12 @@ This repository contains my accepted LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
