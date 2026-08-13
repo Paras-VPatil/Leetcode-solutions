@@ -24,6 +24,7 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
@@ -37,4 +38,9 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
