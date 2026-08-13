@@ -33,4 +33,8 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
