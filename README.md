@@ -20,6 +20,7 @@ This repository contains my accepted LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
@@ -49,4 +50,8 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
