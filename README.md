@@ -23,6 +23,7 @@ This repository contains my accepted LeetCode solutions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ This repository contains my accepted LeetCode solutions.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -57,6 +59,7 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
