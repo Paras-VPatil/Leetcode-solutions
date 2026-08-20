@@ -46,11 +46,13 @@ This repository contains my accepted LeetCode solutions.
 | [0009-palindrome-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0171-excel-sheet-column-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |
