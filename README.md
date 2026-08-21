@@ -24,6 +24,7 @@ This repository contains my accepted LeetCode solutions.
 | [0035-search-insert-position](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
@@ -66,4 +67,8 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
