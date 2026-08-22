@@ -53,6 +53,7 @@ This repository contains my accepted LeetCode solutions.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
@@ -71,4 +72,12 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
