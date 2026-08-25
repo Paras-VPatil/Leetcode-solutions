@@ -24,10 +24,24 @@ class Solution {
         }
         return nums[nums.length - 1];*/
 
-        int ans = 0;
+        /*int ans = 0;
         for (int num : nums) {
             ans ^= num; // Cumulative XOR
         }
-        return ans;
+        return ans;*/
+
+        HashSet<Integer> set = new HashSet<>();
+        long setSum = 0;
+        long arraySum = 0;
+
+        for (int num : nums) {
+            if (!set.contains(num)) {
+                set.add(num);
+                setSum += num;
+            }
+            arraySum += num;
+        }
+
+        return (int) (2 * setSum - arraySum);
     }
 }
