@@ -25,6 +25,7 @@ This repository contains my accepted LeetCode solutions.
 | [0066-plus-one](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
