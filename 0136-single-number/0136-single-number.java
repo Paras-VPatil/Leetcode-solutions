@@ -1,5 +1,7 @@
 class Solution {
     public int singleNumber(int[] nums) {
+
+// using hashmap
         /*HashMap<Integer, Integer> map = new HashMap<>();
         
         // Count frequencies
@@ -16,6 +18,7 @@ class Solution {
         
         return -1;*/
 
+// using sorting 
        /* Arrays.sort(nums);
         for (int i = 1; i < nums.length; i += 2) {
             if (nums[i] != nums[i - 1]) {
@@ -24,13 +27,8 @@ class Solution {
         }
         return nums[nums.length - 1];*/
 
-        /*int ans = 0;
-        for (int num : nums) {
-            ans ^= num; // Cumulative XOR
-        }
-        return ans;*/
-
-        HashSet<Integer> set = new HashSet<>();
+// using math
+        /* HashSet<Integer> set = new HashSet<>();
         long setSum = 0;
         long arraySum = 0;
 
@@ -42,6 +40,15 @@ class Solution {
             arraySum += num;
         }
 
-        return (int) (2 * setSum - arraySum);
+        return (int) (2 * setSum - arraySum);*/
+
+// this is XOR
+        int ans = 0;
+        for (int num : nums) {
+            ans ^= num; // Cumulative XOR
+        }
+        return ans;
+
+        
     }
 }
