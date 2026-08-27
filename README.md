@@ -26,6 +26,7 @@ This repository contains my accepted LeetCode solutions.
 | [0088-merge-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -33,6 +34,7 @@ This repository contains my accepted LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -45,6 +47,7 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -114,4 +117,16 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
