@@ -56,6 +56,7 @@ This repository contains my accepted LeetCode solutions.
 | [0013-roman-to-integer](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
@@ -84,6 +85,7 @@ This repository contains my accepted LeetCode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -129,4 +131,8 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
