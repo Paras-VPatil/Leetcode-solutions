@@ -42,6 +42,7 @@ This repository contains my accepted LeetCode solutions.
 | ------- |
 | [0067-add-binary](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@ This repository contains my accepted LeetCode solutions.
 | [0067-add-binary](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -135,4 +137,8 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
