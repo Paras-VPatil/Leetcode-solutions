@@ -60,6 +60,7 @@ This repository contains my accepted LeetCode solutions.
 | [0070-climbing-stairs](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
