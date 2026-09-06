@@ -19,6 +19,7 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -86,6 +87,7 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -161,4 +163,8 @@ This repository contains my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Paras-VPatil/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
